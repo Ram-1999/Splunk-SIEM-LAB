@@ -8,3 +8,7 @@
 ### Splunk
 
 - **Splunk Host and Forwarder:** [Download here](https://www.splunk.com/en_us/download.html)
+
+### Azure 
+
+- **Azure free account setup link:**[click](https://azure.microsoft.com/en-in/free)
