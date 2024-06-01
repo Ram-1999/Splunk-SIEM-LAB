@@ -11,4 +11,4 @@
 
 ### Azure 
 
-- **Azure free account setup link:**[click](https://azure.microsoft.com/en-in/free)
+- **Azure free account setup link:** [click](https://azure.microsoft.com/en-in/free)
